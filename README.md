@@ -1,4 +1,4 @@
-# # HTML + CSS: Email Marketing.
+# HTML + CSS: Email Marketing.
 
 > In this HTML we integrate a mix of in-line css and external images to be able to desplay full page with style, images and videos in one easy-to-send file via email. 
 

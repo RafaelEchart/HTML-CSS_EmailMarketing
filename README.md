@@ -20,8 +20,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- git clone https://github.com/RafaelEchart/MicroverseTrials_Rafael-Andrew.git
-- cd MicroverseTrials_Rafael-Andrew
+- git clone https://github.com/RafaelEchart/HTML-CSS_EmailMarketing.git
+- cd HTML-CSS_EmailMarketing
 
 ### Usage
 
@@ -46,7 +46,7 @@ Open the **index.html** with the browser of your preference.
 
 ## 🤝 Contributing
 
-Thanks to my partner in Andrew to work with me in this project-trial!
+Thanks to this [online tutorial](https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails/), for code tips
 
 
 ## Show your support
